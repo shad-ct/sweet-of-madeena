@@ -151,7 +151,7 @@ const App = () => {
         ctx.fillText(enteredName, imageX, textY);
 
         const link = document.createElement('a');
-        link.download = 'custom-poster.png';
+        link.download = 'sweet of madeena 2025.png';
         link.href = canvas.toDataURL('image/png');
         link.click();
     };
