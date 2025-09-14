@@ -230,6 +230,17 @@ const App = () => {
           </button>
         </div>
       </div>
+      <footer className="text-center text-white bg-black p-2  ">
+        Web by{" "}
+        <a
+          href="https://linkedin.com/in/shad-c-t"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline"
+        >
+          Shad-CT
+        </a>
+      </footer>
     </>
   );
 };
